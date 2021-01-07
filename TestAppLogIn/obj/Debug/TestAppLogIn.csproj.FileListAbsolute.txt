@@ -23,3 +23,35 @@ c:\users\axad\documents\visual studio 2015\Projects\TestAppLogIn\TestAppLogIn\ob
 c:\users\axad\documents\visual studio 2015\Projects\TestAppLogIn\TestAppLogIn\bin\Debug\Data\local_db.mdf
 c:\users\axad\documents\visual studio 2015\Projects\TestAppLogIn\TestAppLogIn\bin\Debug\Data\local_db_log.ldf
 c:\users\axad\documents\visual studio 2015\Projects\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn_Content.g.cs
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\TestAppLogIn.exe.config
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn.exe
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn.pdb
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn.csprojResolveAssemblyReference.cache
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\MainWindow.g.cs
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\Window1.g.cs
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\App.g.cs
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn_Content.g.cs
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn_MarkupCompile.cache
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn_MarkupCompile.lref
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Data\local_db.mdf
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Data\local_db_log.ldf
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\TestAppLogIn.exe
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\TestAppLogIn.pdb
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\MaterialDesignColors.dll
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Spire.Doc.dll
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Spire.License.dll
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Spire.Pdf.dll
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Spire.Doc.xml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Spire.License.xml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\bin\Debug\Spire.Pdf.xml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\App.baml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\MainWindow.baml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\Window1.baml
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn.g.resources
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn.Properties.Resources.resources
+C:\Users\Axad\Desktop\TestAppLogIn\TestAppLogIn\obj\Debug\TestAppLogIn.csproj.GenerateResource.Cache

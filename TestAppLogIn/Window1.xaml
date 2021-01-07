@@ -55,46 +55,35 @@
 
             </StackPanel>
         </Grid>
-        <Grid x:Name="GridMenu" Width="60" HorizontalAlignment="Left" Background="#FF173C68">
+        <Grid x:Name="GridMenu" Width="60" HorizontalAlignment="Left" Background="White">
             <StackPanel>
                 <Grid Height="69" Background="White">
-                    <Button x:Name="ButtonCloseMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed" Click="ButtonCloseMenu_Click">
+                    <Button x:Name="ButtonCloseMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed">
                         <materialDesign:PackIcon Foreground="#FF173C68" Kind="ArrowLeft" Width="25" Height="25"/>
                     </Button>
-                    <Button x:Name="ButtonOpenMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Click="ButtonOpenMenu_Click">
+                    <Button x:Name="ButtonOpenMenu" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right">
                         <materialDesign:PackIcon Foreground="#FF173C68" Kind="Menu" Width="25" Height="25"/>
                     </Button>
                 </Grid>
-                <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" Foreground="#FF3C699E">
-                    <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="Upload" Margin="10" Width="25" Height="25" VerticalAlignment="Center"/>
-                            <TextBlock Text="Load File" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
-                    </ListViewItem>
-                    <ListViewItem Height="60">
-                        <StackPanel Orientation="Horizontal">
-                            <materialDesign:PackIcon Kind="Refresh" Margin="10" Width="25" Height="25" VerticalAlignment="Center"/>
-                            <TextBlock Text="Refresh" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
-                    </ListViewItem>
-                    <ListViewItem Height="60">
-
-                        <StackPanel Orientation="Horizontal">
-
-                            <materialDesign:PackIcon Kind="Download" Margin="10" Width="25" Height="25" VerticalAlignment="Center"/>
-                            <TextBlock Text="Download" VerticalAlignment="Center" Margin="20 10"/>
-                        </StackPanel>
-                    </ListViewItem>
-                </ListView>
+                <Grid Height="69" Background="White">
+                    <Button x:Name="ButtonUpload" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Click="LoadFile">
+                        <materialDesign:PackIcon Foreground="#FF173C68" Kind="Upload" Width="25" Height="25"/>
+                    </Button>
+                </Grid>
+                <Grid Height="69" Background="White">
+                    <Button x:Name="ButtonShuffle" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Click="Shuffle">
+                        <materialDesign:PackIcon Foreground="#FF173C68" Kind="Refresh" Width="25" Height="25"/>
+                    </Button>
+                </Grid>
+                <Grid Height="69" Background="White">
+                    <Button x:Name="ButtonDownload" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Click="Download">
+                        <materialDesign:PackIcon Foreground="#FF173C68" Kind="Download" Width="25" Height="25"/>
+                    </Button>
+                </Grid>
             </StackPanel>
         </Grid>
-        <RichTextBox x:Name="richTextBox" Background="White" HorizontalAlignment="Right" Height="599" Margin="0,70,40,0" VerticalAlignment="Top" Width="1052">
-            <FlowDocument>
-                <Paragraph>
-                    <Run Text="RichTextBox"/>
-                </Paragraph>
-            </FlowDocument>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Right" Height="599" Margin="0,70,40,0" VerticalAlignment="Top" Width="1052" IsDocumentEnabled="True" FontSize="16" Background="White">
+            <FlowDocument AllowDrop="False" Foreground="Black"/>
         </RichTextBox>
     </Grid>
 </Window>
